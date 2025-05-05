@@ -235,11 +235,11 @@ section {
 }
 
 .valori-box:hover {
-  box-shadow: 0 10px 20px #FFE367; /* shadow effect */
+  box-shadow: 0 10px 20px #cbcbcb; /* shadow effect */
 }
 
 .valori-box:hover h3 {
-  color: #FF6444; /* change to your preferred hover color */
+  color: #444242; /* change to your preferred hover color */
 }
 
 .valori-content h3 {
